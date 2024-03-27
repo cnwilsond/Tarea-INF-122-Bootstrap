@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Reddit+Mono:wght@200..900&family=Roboto+Slab:wght@100..900&display=swap');
+
+  img{
+    width: 150px;
+  }
+  
+  .navbar{
+    background-color: #FF7A59;
+    font-family: 'Roboto Slab', cursive;
+    font-size: 20px;
+  }
+  /* .img-fluid{
+    background-size: cover;
+    background-position: center center;
+    height: 900px;
+    width: 1200px;
+  } */
+  section{
+    background: url("../imagen/fondo.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 250vh;
+    
+  }
+  h1{
+    padding: 70px 10px 10px 45px;
+    color: #dddddd;
+    font-family: 'Roboto Slab', cursive;
+  }
+  h2{
+    padding: 5px 10px 5px 45px;
+    color: #b9e7ba;
+    font-family: 'Roboto Slab', cursive;
+  }
+  p{
+    font-family: 'Fira Sans', cursive;
+    color: rgb(17, 13, 13);
+  }
+  .foto{
+    float: flex;
+  }
+.card{
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 10px;
+  background-color: #c69d93;
+  }
+  .accordion{
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+
+  .float-start{
+    width: 350px;
+  }
+  .float-end{
+    width: 350px;
+  }
+
+ .mx-auto.d-block{
+   width: 350px;
+ }
+
+ .img-thumbnail{
+  width: 350px;
+ }
+ .carousel{
+  padding-left: 45px;
+  width: 600px;
+ }
+.btn{
+  margin: 25px 0 10px 40px;
+}
